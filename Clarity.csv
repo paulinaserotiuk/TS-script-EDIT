@@ -1,0 +1,740 @@
+,Unnamed: 0,Project,Task,Resource,employment,Employment,Start,End,Timesheet Status,Pending,Posted,Total,Order ID,inv_code,ts_status
+0,16601028,[ESP] KR-Flotte MVP4: Kalkulationstool Funktionen,Requirements Engineering,"Grodzicka, Paulina",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0012530,3.0
+1,16601033,[ESP] KR-Flotte MVP4: Kalkulationstool Funktionen,Requirements Engineering,"Grodzicka, Paulina",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0012530,3.0
+2,16601512,[ESP] KR-Flotte MVP4: Kalkulationstool Funktionen,Development,"Lawniczak, Jacek",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0012530,3.0
+3,16601514,[ESP] KR-Flotte MVP4: Kalkulationstool Funktionen,Development,"Lawniczak, Jacek",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0012530,3.0
+4,16601516,[ESP] KR-Flotte MVP4: Kalkulationstool Funktionen,Development,"Lawniczak, Jacek",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0012530,3.0
+5,16538540,13687-Marke - Vertriebe - Homepage,DIT: WP2 - Mitarbeiter,"Charubin_30.11.19, Lukasz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,32,0,32,,ID-0013687,0.0
+6,16601529,13688-Marke - Vertriebe - Vertriebsmarketing,MVP EASY,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013688,3.0
+7,16601704,13688-Marke - Vertriebe - Vertriebsmarketing,MVP EASY,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0013688,3.0
+8,16601685,13688-Marke - Vertriebe - Vertriebsmarketing,MVP EASY,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013688,3.0
+9,16592726,Abcence (DITS),Abcence (DITS),"Bernt, Anja Diana",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,8,8,,AA00004835,4.0
+10,16592752,Abcence (DITS),Abcence (DITS),"Bernt, Anja Diana",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,AA00004835,3.0
+11,16592759,Abcence (DITS),Abcence (DITS),"Bernt, Anja Diana",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,8,0,8,,AA00004835,3.0
+12,16601016,Abcence (DITS),Abcence (DITS),"Klesta, Piotr",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,AA00004835,3.0
+13,16601025,Abcence (DITS),Abcence (DITS),"Klesta, Piotr",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,16,0,16,,AA00004835,3.0
+14,16601032,Abcence (DITS),Abcence (DITS),"Klesta, Piotr",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,4,0,4,,AA00004835,3.0
+15,16599920,Abcence (DITS),Abcence (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,8,0,8,,AA00004835,3.0
+16,16599938,Abcence (DITS),Abcence (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004835,3.0
+17,16599964,Abcence (DITS),Abcence (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004835,3.0
+18,16601532,Abcence (DITS),Abcence (DITS),"Richter, Sandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,AA00004835,3.0
+19,16601538,Abcence (DITS),Abcence (DITS),"Richter, Sandra",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,AA00004835,3.0
+20,16601525,Abcence (DITS),Abcence (DITS),"Richter, Sandra",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,8,0,8,,AA00004835,3.0
+21,16601577,Abcence (DITSD),Abcence (DITSD),"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,8,0,8,,AA00004841,3.0
+22,16601581,Abcence (DITSD),Abcence (DITSD),"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004841,3.0
+23,16606261,Abcence (DITSD),Abcence (DITSD),"Zajdzik, Aleksandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,4,0,4,,AA00004841,3.0
+24,16601069,Abcence (DITSP),Abcence (DITSP),"Grodzicka, Paulina",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,12,0,12,,AA00004853,3.0
+25,16605627,Abcence (DITSP),Abcence (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004853,3.0
+26,16605643,Abcence (DITSP),Abcence (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004853,3.0
+27,16605708,Abcence (DITSP),Abcence (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004853,3.0
+28,16601588,Abcence (DITSPBA),Abcence (DITSPBA),"Blus, Malgorzata",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,8,0,8,,AA00004859,3.0
+29,16601600,Abcence (DITSPBA),Abcence (DITSPBA),"Blus, Malgorzata",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,AA00004859,3.0
+30,16601611,Abcence (DITSPBA),Abcence (DITSPBA),"Blus, Malgorzata",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,AA00004859,3.0
+31,16601645,Abcence (DITSPBA),Abcence (DITSPBA),"Blus, Malgorzata",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004859,3.0
+32,16606384,Abcence (DITSPBA),Abcence (DITSPBA),"Bogdan, Michal",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,32,0,32,,AA00004859,3.0
+33,16600653,Abcence (DITSPBA),Abcence (DITSPBA),"Gervais, Nicolas",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,12,0,12,,AA00004859,3.0
+34,16602219,Abcence (DITSPBA),Abcence (DITSPBA),"Supera, Aleksandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,AA00004859,3.0
+35,16603248,Abcence (DITSPBA),Abcence (DITSPBA),"Supera, Aleksandra",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,4,0,4,,AA00004859,3.0
+36,16603253,Abcence (DITSPBA),Abcence (DITSPBA),"Supera, Aleksandra",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,4,0,4,,AA00004859,3.0
+37,16606306,Abcence (DITTC),Abcence (DITTC),"Baran, Tomasz",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004763,3.0
+38,16606288,Abcence (DITTC),Abcence (DITTC),"Baran, Tomasz",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004763,3.0
+39,16601450,Abcence (DITTC),Abcence (DITTC),"Dziuba, Damian",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004763,3.0
+40,16596440,Abcence (DITTC),Abcence (DITTC),"Podgorski, Jakub",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,8,8,,AA00004763,4.0
+41,16603038,Abcence (DITTC),Abcence (DITTC),"Smulczak, Michal",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004763,3.0
+42,16603041,Abcence (DITTC),Abcence (DITTC),"Smulczak, Michal",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004763,3.0
+43,16605030,Abcence (DITTC),Abcence (DITTC),"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,8,0,8,,AA00004763,3.0
+44,16605053,Abcence (DITTC),Abcence (DITTC),"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,8,0,8,,AA00004763,3.0
+45,16600709,Abcence (DITTE1),Abcence (DITTE1),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004769,3.0
+46,16596019,Abcence (DITTE1),Abcence (DITTE1),"Furtak, Marcin",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,40,40,,AA00004769,4.0
+47,16596031,Abcence (DITTE1),Abcence (DITTE1),"Furtak, Marcin",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004769,3.0
+48,16596036,Abcence (DITTE1),Abcence (DITTE1),"Furtak, Marcin",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004769,3.0
+49,16600269,Abcence (DITTE2),Abcence (DITTE2),"Baryla, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,AA00004775,3.0
+50,16600275,Abcence (DITTE2),Abcence (DITTE2),"Baryla, Robert",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004775,3.0
+51,16600277,Abcence (DITTE2),Abcence (DITTE2),"Baryla, Robert",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004775,3.0
+52,16600530,Abcence (DITTE3),Abcence (DITTE3),"Otrebska, Kaja",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,AA00004781,3.0
+53,16600512,Abcence (DITTE3),Abcence (DITTE3),"Otrebska, Kaja",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,8,0,8,,AA00004781,3.0
+54,16600529,Abcence (DITTE3),Abcence (DITTE3),"Otrebska, Kaja",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004781,3.0
+55,16601796,Abcence (DITTE6),Abcence (DITTE6),"Paprocki, Piotr",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,AA00004799,3.0
+56,16596353,Abcence (DITTS),Abcence (DITTS),"Adamiec, Klaudia",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,AA00004811,3.0
+57,16596354,Abcence (DITTS),Abcence (DITTS),"Adamiec, Klaudia",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,AA00004811,3.0
+58,16589015,Abcence (DITTS),Abcence (DITTS),"Summers, John",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,32,32,,AA00004811,4.0
+59,16589021,Abcence (DITTS),Abcence (DITTS),"Summers, John",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,16,16,,AA00004811,4.0
+60,16606569,Abcence (DITTS),Abcence (DITTS),"Summers, John",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,AA00004811,3.0
+61,16489578,Absence (DITP),Absence (DITP),"Tabaczynski_30.11.19, Jedrzej",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004571,3.0
+62,16554392,Absence (DITPD),Absence (DITPD),"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,AA00004577,0.0
+63,16554391,Absence (DITPD),Absence (DITPD),"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,0,0,0,,AA00004577,3.0
+64,16554396,Absence (DITPD),Absence (DITPD),"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,AA00004577,3.0
+65,16584716,Absence (DITPD),Absence (DITPD),"Perz_30.11.19, Szymon",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,AA00004577,4.0
+66,16544235,Absence (DITPD),Absence (DITPD),"Perz_30.11.19, Szymon",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,16,0,16,,AA00004577,5.0
+67,16441703,Absence (DITPI),Absence (DITPI),"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,0,0,0,,AA00004583,3.0
+68,16441707,Absence (DITPI),Absence (DITPI),"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,AA00004583,3.0
+69,16584850,Absence (DITPI),Absence (DITPI),"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,AA00004583,4.0
+70,16566351,Absence (DITPI),Absence (DITPI),"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,16,0,16,,AA00004583,5.0
+71,16566409,Absence (DITPI),Absence (DITPI),"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-09,2019-12-15,Open,0,0,0,,AA00004583,0.0
+72,16569902,Absence (DITT),Absence (DITT),"Baryla_30.11.19, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Open,0,0,0,,AA00004595,0.0
+73,16565201,Absence (DITTE),Absence (DITTE),"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,0,0,0,,AA00004607,3.0
+74,16565203,Absence (DITTE),Absence (DITTE),"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,AA00004607,3.0
+75,16564866,Absence (DITTE),Absence (DITTE),"Piechucka_30.11.19, Anna",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,AA00004607,0.0
+76,16584717,Absence (DITTE),Absence (DITTE),"Piechucka_30.11.19, Anna",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,AA00004607,4.0
+77,16564896,Absence (DITTE),Absence (DITTE),"Piechucka_30.11.19, Anna",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,AA00004607,5.0
+78,16599921,Administration/Organization (DITS),Administration/Organization (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004836,3.0
+79,16599939,Administration/Organization (DITS),Administration/Organization (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004836,3.0
+80,16599965,Administration/Organization (DITS),Administration/Organization (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004836,3.0
+81,16605628,Administration/Organization (DITSP),Administration/Organization (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004854,3.0
+82,16605644,Administration/Organization (DITSP),Administration/Organization (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004854,3.0
+83,16605709,Administration/Organization (DITSP),Administration/Organization (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004854,3.0
+84,16601451,Administration/Organization (DITTC),Administration/Organization (DITTC),"Dziuba, Damian",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004764,3.0
+85,16600623,Administration/Organization (DITTS),Administration/Organization (DITTS),"Arendt, Barbara",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,AA00004812,3.0
+86,16600951,Administration/Organization (DITTS),Administration/Organization (DITTS),"Janowski, Konrad",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,AA00004812,3.0
+87,16600957,Administration/Organization (DITTS),Administration/Organization (DITTS),"Janowski, Konrad",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,AA00004812,3.0
+88,16606570,Administration/Organization (DITTS),Administration/Organization (DITTS),"Summers, John",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004812,3.0
+89,16607580,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Partyka, Szymon",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013398,3.0
+90,16605166,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Grabska, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Open,0,0,0,,ID-0013398,0.0
+91,16584848,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013398,4.0
+92,16566348,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,12,0,12,,ID-0013398,5.0
+93,16602212,B2B Portal - Betriebskosten,RÜ MAINTENANCE,"Supera, Aleksandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013398,3.0
+94,16602227,B2B Portal - Betriebskosten,RÜ MAINTENANCE,"Supera, Aleksandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,24,0,24,,ID-0013398,3.0
+95,16602238,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Supera, Aleksandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,16,0,16,,ID-0013398,3.0
+96,16603246,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Supera, Aleksandra",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,20,0,20,,ID-0013398,3.0
+97,16603251,B2B Portal - Betriebskosten,Surety MAINTENANCE,"Supera, Aleksandra",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,12,0,12,,ID-0013398,3.0
+98,16607549,B2B Portal: IAM,IAM MVP 2019,"Partyka, Szymon",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013811,3.0
+99,16607554,B2B Portal: IAM,IAM MVP 2019,"Partyka, Szymon",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0013811,3.0
+100,16605167,B2B Portal: IAM,IAM MVP 2019,"Grabska, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Open,0,0,0,,ID-0013811,0.0
+101,16602201,B2B Portal: New Facility,New Facility MVP,"Supera, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013809,3.0
+102,16602205,B2B Portal: New Facility,New Facility MVP,"Supera, Aleksandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013809,3.0
+103,16575523,B2C Portal Apps Betriebskosten,General maintenance,"Leidel_30.11.19, Jacek",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013324,3.0
+104,16575538,B2C Portal Apps Betriebskosten,General maintenance,"Leidel_30.11.19, Jacek",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,0,0,0,,ID-0013324,3.0
+105,16575526,B2C Portal Apps Betriebskosten,General maintenance,"Leidel_30.11.19, Jacek",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,ID-0013324,3.0
+106,16601154,Business Logik,Betreuungsweiche (DOSPA) MVP1,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0012591,3.0
+107,16601167,Business Logik,Betreuungsweiche (DOSPA) MVP1,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0012591,0.0
+108,16601205,Business Logik,Betreuungsweiche (DOSPA) MVP1,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,0,0,0,,ID-0012591,0.0
+109,16601209,Business Logik,Betreuungsweiche (DOSPA) MVP1,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,0,0,0,,ID-0012591,0.0
+110,16604646,Business Logik,Betreuungsweiche (DOSPA) MVP1,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0012591,0.0
+111,16599919,ContentHub MVP DIT Estimation,Umsetzung Content Hub,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014842,3.0
+112,16599937,ContentHub MVP DIT Estimation,Umsetzung Content Hub,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,5,0,5,,ID-0014842,3.0
+113,16599963,ContentHub MVP DIT Estimation,Umsetzung Content Hub,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,ID-0014842,3.0
+114,16574432,Digitaler Webauftritt der Vermittler MVP5,Transition: AEM Development Digital Back-office,"Herberg_30.11.19, Malte",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,0,0,0,,ID-0014097,0.0
+115,16573882,Digitaler Webauftritt der Vermittler MVP5,Transition: AEM Development Digital Back-office,"Schumacher_30.11.19, Tony",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014097,0.0
+116,16584843,Digitaler Webauftritt der Vermittler MVP5,Cross functional: PL/PMO,"Siamplis_30.11.19, Ilias",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014097,4.0
+117,16568705,Digitaler Webauftritt der Vermittler MVP5,Cross functional: PL/PMO,"Siamplis_30.11.19, Ilias",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,32,0,32,,ID-0014097,5.0
+118,16584684,Digitaler Webauftritt der Vermittler MVP5,Cross functional: Betrieb/Operations,"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014097,4.0
+119,16554358,Digitaler Webauftritt der Vermittler MVP5,Cross functional: Betrieb/Operations,"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,32,0,32,,ID-0014097,5.0
+120,16557651,Digitaler Webauftritt der Vermittler MVP5,Transition: AEM Development Digital Back-office,"Zajdzik_30.11.19, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0014097,5.0
+121,16552956,DIT Design,DIT Design,"Fok_30.11.19, Damian",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0013355,0.0
+122,16599997,DIT Product,DIT Offsite 2019,"Szymański, Tomasz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013356,3.0
+123,16489585,DIT Product,DIT Product,"Tabaczynski_30.11.19, Jedrzej",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,0,0,0,,ID-0013356,3.0
+124,16489587,DIT Product,DIT Product,"Tabaczynski_30.11.19, Jedrzej",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,ID-0013356,3.0
+125,16542894,DIT Product,DIT Product,"Woszczak_30.11.19, Anna",INTERNAL,Employee,2019-12-01,2019-12-01,Adjusted,8,0,8,,ID-0013356,5.0
+126,16596466,E2E Digitalization Claims - MVP2,tracking - Dezember,"Baradari, Tatiana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+127,16601412,E2E Digitalization Claims - MVP2,tracking - Dezember,"Baradari, Tatiana",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,0,0,0,,ID-0014001,0.0
+128,16596470,E2E Digitalization Claims - MVP2,tracking - Dezember,"Baradari, Tatiana",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0014001,0.0
+129,16583160,E2E Digitalization Claims - MVP2,tracking - Dezember,"Baradari_30.11.19, Tatiana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+130,16557449,E2E Digitalization Claims - MVP2,tracking - Dezember,"Baradari_30.11.19, Tatiana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014001,5.0
+131,16601023,E2E Digitalization Claims - MVP2,private accident - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014001,3.0
+132,16600781,E2E Digitalization Claims - MVP2,private legal - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014001,3.0
+133,16600784,E2E Digitalization Claims - MVP2,private legal - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014001,3.0
+134,16600788,E2E Digitalization Claims - MVP2,private legal - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014001,3.0
+135,16600794,E2E Digitalization Claims - MVP2,private legal - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014001,3.0
+136,16600796,E2E Digitalization Claims - MVP2,private legal - December,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014001,3.0
+137,16601981,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach, Norman",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+138,16601983,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach, Norman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014001,3.0
+139,16602003,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach, Norman",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,32,0,32,,ID-0014001,3.0
+140,16602017,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach, Norman",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,16,0,16,,ID-0014001,0.0
+141,16583206,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach_30.11.19, Norman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+142,16558898,E2E Digitalization Claims - MVP2,tracking - Dezember,"Geiersbach_30.11.19, Norman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014001,5.0
+143,16596556,E2E Digitalization Claims - MVP2,private accident - December,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,20,20,,ID-0014001,4.0
+144,16596557,E2E Digitalization Claims - MVP2,private legal - December,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,20,20,,ID-0014001,4.0
+145,16596591,E2E Digitalization Claims - MVP2,tracking - Dezember,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014001,4.0
+146,16600984,E2E Digitalization Claims - MVP2,tracking - Dezember,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014001,3.0
+147,16600986,E2E Digitalization Claims - MVP2,tracking - Dezember,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0014001,3.0
+148,16600988,E2E Digitalization Claims - MVP2,tracking - Dezember,"Glowacki, Sebastian",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014001,3.0
+149,16601930,E2E Digitalization Claims - MVP2,private accident - December,"Janicki, Artur",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014001,3.0
+150,16601935,E2E Digitalization Claims - MVP2,private accident - December,"Janicki, Artur",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014001,3.0
+151,16601937,E2E Digitalization Claims - MVP2,private accident - December,"Janicki, Artur",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014001,3.0
+152,16601939,E2E Digitalization Claims - MVP2,private accident - December,"Janicki, Artur",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014001,3.0
+153,16601941,E2E Digitalization Claims - MVP2,private accident - December,"Janicki, Artur",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014001,3.0
+154,16584254,E2E Digitalization Claims - MVP2,private accident - December,"Janicki_30.11.19, Artur",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+155,16564853,E2E Digitalization Claims - MVP2,private accident - December,"Janicki_30.11.19, Artur",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014001,5.0
+156,16564897,E2E Digitalization Claims - MVP2,private accident - December,"Janicki_30.11.19, Artur",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014001,3.0
+157,16601931,E2E Digitalization Claims - MVP2,private accident - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,10,0,10,,ID-0014001,3.0
+158,16601943,E2E Digitalization Claims - MVP2,private accident - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,15,0,15,,ID-0014001,3.0
+159,16601960,E2E Digitalization Claims - MVP2,private accident - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,16,0,16,,ID-0014001,3.0
+160,16601967,E2E Digitalization Claims - MVP2,private accident - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,12,0,12,,ID-0014001,3.0
+161,16602000,E2E Digitalization Claims - MVP2,private accident - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,3,0,3,,ID-0014001,3.0
+162,16601932,E2E Digitalization Claims - MVP2,private legal - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,10,0,10,,ID-0014001,3.0
+163,16601944,E2E Digitalization Claims - MVP2,private legal - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,10,0,10,,ID-0014001,3.0
+164,16601963,E2E Digitalization Claims - MVP2,private legal - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,12,0,12,,ID-0014001,3.0
+165,16601968,E2E Digitalization Claims - MVP2,private legal - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,9,0,9,,ID-0014001,3.0
+166,16602001,E2E Digitalization Claims - MVP2,private legal - December,"Krol, Mariola",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,11,0,11,,ID-0014001,3.0
+167,16601933,E2E Digitalization Claims - MVP2,tracking - Dezember,"Krol, Mariola",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,15,0,15,,ID-0014001,3.0
+168,16601945,E2E Digitalization Claims - MVP2,tracking - Dezember,"Krol, Mariola",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,10,0,10,,ID-0014001,3.0
+169,16601961,E2E Digitalization Claims - MVP2,tracking - Dezember,"Krol, Mariola",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,7,0,7,,ID-0014001,3.0
+170,16601969,E2E Digitalization Claims - MVP2,tracking - Dezember,"Krol, Mariola",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,0,0,0,,ID-0014001,3.0
+171,16595822,E2E Digitalization Claims - MVP2,broker - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+172,16595840,E2E Digitalization Claims - MVP2,broker - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+173,16595820,E2E Digitalization Claims - MVP2,liability - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+174,16595838,E2E Digitalization Claims - MVP2,liability - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+175,16595819,E2E Digitalization Claims - MVP2,private accident - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+176,16595837,E2E Digitalization Claims - MVP2,private accident - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+177,16595821,E2E Digitalization Claims - MVP2,private legal - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+178,16595839,E2E Digitalization Claims - MVP2,private legal - December,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+179,16595818,E2E Digitalization Claims - MVP2,tracking - Dezember,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014001,0.0
+180,16595836,E2E Digitalization Claims - MVP2,tracking - Dezember,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+181,16597303,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski, Damian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0014001,4.0
+182,16597301,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski, Damian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014001,4.0
+183,16597355,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski, Damian",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,40,0,40,,ID-0014001,0.0
+184,16597357,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski, Damian",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,24,0,24,,ID-0014001,0.0
+185,16597358,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski, Damian",EXTERNAL,Contractor,2019-12-30,2019-12-31,Open,16,0,16,,ID-0014001,0.0
+186,16584737,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski_30.11.19, Damian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+187,16559604,E2E Digitalization Claims - MVP2,private accident - December,"Pieszczynski_30.11.19, Damian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014001,5.0
+188,16600828,E2E Digitalization Claims - MVP2,broker - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014001,3.0
+189,16600846,E2E Digitalization Claims - MVP2,broker - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,4,0,4,,ID-0014001,3.0
+190,16607513,E2E Digitalization Claims - MVP2,broker - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014001,3.0
+191,16600825,E2E Digitalization Claims - MVP2,liability - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014001,3.0
+192,16600843,E2E Digitalization Claims - MVP2,liability - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,4,0,4,,ID-0014001,3.0
+193,16607510,E2E Digitalization Claims - MVP2,liability - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014001,3.0
+194,16600826,E2E Digitalization Claims - MVP2,private accident - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,16,0,16,,ID-0014001,3.0
+195,16600844,E2E Digitalization Claims - MVP2,private accident - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,12,0,12,,ID-0014001,3.0
+196,16607511,E2E Digitalization Claims - MVP2,private accident - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,8,0,8,,ID-0014001,3.0
+197,16600827,E2E Digitalization Claims - MVP2,private legal - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014001,3.0
+198,16600845,E2E Digitalization Claims - MVP2,private legal - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,20,0,20,,ID-0014001,3.0
+199,16607512,E2E Digitalization Claims - MVP2,private legal - December,"Suchy, Tatjana",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,32,0,32,,ID-0014001,3.0
+200,16537663,E2E Digitalization Claims - MVP2,broker - November,"Suchy_30.11.19, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+201,16537660,E2E Digitalization Claims - MVP2,liability - November,"Suchy_30.11.19, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+202,16537661,E2E Digitalization Claims - MVP2,private accident - November,"Suchy_30.11.19, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+203,16537662,E2E Digitalization Claims - MVP2,private legal - November,"Suchy_30.11.19, Tatjana",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+204,16583203,E2E Digitalization Claims - MVP2,broker - December,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+205,16558076,E2E Digitalization Claims - MVP2,broker - December,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,10,0,10,,ID-0014001,5.0
+206,16583202,E2E Digitalization Claims - MVP2,liability - December,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+207,16558073,E2E Digitalization Claims - MVP2,liability - December,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,10,0,10,,ID-0014001,5.0
+208,16583204,E2E Digitalization Claims - MVP2,tracking - Dezember,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014001,4.0
+209,16558077,E2E Digitalization Claims - MVP2,tracking - Dezember,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,10,0,10,,ID-0014001,5.0
+210,16605168,E2E Digitalization Claims - MVP2,private accident - December,"Grabska, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+211,16605169,E2E Digitalization Claims - MVP2,private legal - December,"Grabska, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014001,0.0
+212,16531303,E2E Digitalization Claims - MVP2,liability - November,"Kondricz_30.11.19, Koppany",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014001,5.0
+213,16566349,E2E Digitalization Claims - MVP2,liability - December,"Stefflbauer_30.11.19, Nakeema",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,12,0,12,,ID-0014001,5.0
+214,16604400,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013187,3.0
+215,16604233,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+216,16604257,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+217,16604264,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+218,16604284,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013187,3.0
+219,16604303,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek, Grzegorz",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013187,3.0
+220,16583196,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek_30.11.19, Grzegorz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013187,4.0
+221,16555316,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Chlopek_30.11.19, Grzegorz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013187,5.0
+222,16596606,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013187,3.0
+223,16596621,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0013187,4.0
+224,16596637,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0013187,4.0
+225,16596641,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+226,16596646,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0013187,3.0
+227,16596648,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gapurov, Vladislav",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,8,0,8,,ID-0013187,3.0
+228,16607536,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gorski, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013187,3.0
+229,16605063,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gorski, Adrian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+230,16605042,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gorski, Adrian",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+231,16596709,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Metz, Sascha",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,40,0,40,,ID-0013187,0.0
+232,16596711,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Metz, Sascha",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,40,0,40,,ID-0013187,0.0
+233,16596720,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Metz, Sascha",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,40,0,40,,ID-0013187,0.0
+234,16459652,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0013187,0.0
+235,16459654,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,40,0,40,,ID-0013187,0.0
+236,16459676,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,40,0,40,,ID-0013187,0.0
+237,16459697,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,40,0,40,,ID-0013187,0.0
+238,16459701,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,8,0,8,,ID-0013187,0.0
+239,16459703,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Nonso, Ifebi",EXTERNAL,Contractor,2019-12-30,2019-12-31,Open,0,0,0,,ID-0013187,0.0
+240,16602151,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Omoniyi, Bolarinwa",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+241,16602153,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Omoniyi, Bolarinwa",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+242,16602156,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Omoniyi, Bolarinwa",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+243,16602158,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Omoniyi, Bolarinwa",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013187,3.0
+244,16602159,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Omoniyi, Bolarinwa",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013187,3.0
+245,16606694,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013187,3.0
+246,16606696,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+247,16606709,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,34,0,34,,ID-0013187,3.0
+248,16606725,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+249,16606740,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013187,3.0
+250,16606747,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Plechinger, Kevin",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013187,3.0
+251,16606748,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Rosellen, Peter",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+252,16606751,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Rosellen, Peter",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,36,0,36,,ID-0013187,3.0
+253,16606777,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Rosellen, Peter",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+254,16606787,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Rosellen, Peter",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0013187,3.0
+255,16606826,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Rosellen, Peter",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,8,0,8,,ID-0013187,3.0
+256,16600235,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts, Roman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+257,16600240,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts, Roman",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+258,16601241,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts, Roman",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+259,16601289,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts, Roman",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013187,3.0
+260,16601291,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts, Roman",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013187,3.0
+261,16584821,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts_30.11.19, Roman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013187,4.0
+262,16534704,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Ruperts_30.11.19, Roman",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013187,5.0
+263,16596314,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec, Klaudia",INTERNAL,Employee,2019-12-02,2019-12-08,Open,20,0,20,,ID-0013187,0.0
+264,16596330,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec, Klaudia",INTERNAL,Employee,2019-12-09,2019-12-15,Open,32,0,32,,ID-0013187,0.0
+265,16596332,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec, Klaudia",INTERNAL,Employee,2019-12-16,2019-12-22,Open,20,0,20,,ID-0013187,0.0
+266,16583149,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013187,4.0
+267,16565157,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0013187,5.0
+268,16565204,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,0,0,0,,ID-0013187,3.0
+269,16600510,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gervais, Nicolas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+270,16600507,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gervais, Nicolas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+271,16600514,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gervais, Nicolas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+272,16600527,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gervais, Nicolas",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,8,0,8,,ID-0013187,3.0
+273,16600560,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Gervais, Nicolas",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013187,3.0
+274,16600950,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Janowski, Konrad",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013187,3.0
+275,16600956,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Janowski, Konrad",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013187,3.0
+276,16600963,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Janowski, Konrad",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,32,0,32,,ID-0013187,3.0
+277,16607535,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Kolakowski, Krzysztof",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013187,3.0
+278,16607531,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Kolakowski, Krzysztof",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+279,16607534,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Kolakowski, Krzysztof",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+280,16607533,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Kolakowski, Krzysztof",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013187,3.0
+281,16606361,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Marganiec, Bartosz",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+282,16606385,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Marganiec, Bartosz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013187,3.0
+283,16599953,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Moroz, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013187,3.0
+284,16599954,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Moroz, Michal",INTERNAL,Employee,2019-12-09,2019-12-15,Open,0,0,0,,ID-0013187,0.0
+285,16584710,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Moroz_30.11.19, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013187,4.0
+286,16565048,E2E-Prozessoptimierung Operations,Initialer Aufwand 2018 / BIC-Phase (2),"Moroz_30.11.19, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013187,5.0
+287,16590816,Einführung elektronische Gesundheitsakte (eGA) - Betriebskosten,DIT: Wartung/Betreuung nach BETA 09-12/2019,"Orlowski, Kamil",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014353,4.0
+288,16590812,Einführung elektronische Gesundheitsakte (eGA) - Betriebskosten,DIT: Wartung/Betreuung nach BETA 09-12/2019,"Orlowski, Kamil",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014353,3.0
+289,16600782,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013253,3.0
+290,16600785,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,10,0,10,,ID-0013253,3.0
+291,16600789,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,10,0,10,,ID-0013253,3.0
+292,16600795,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,10,0,10,,ID-0013253,3.0
+293,16600797,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,6,0,6,,ID-0013253,3.0
+294,16601024,EMS Operating costs,DIT-Maintenance 2019-12,"Brockmann, Sören",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,4,0,4,,ID-0013253,3.0
+295,16601948,EMS Operating costs,DIT-Maintenance 2019-12,"Janicki, Artur",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,3,0,3,,ID-0013253,3.0
+296,16601934,EMS Operating costs,DIT-Maintenance 2019-12,"Krol, Mariola",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,5,0,5,,ID-0013253,3.0
+297,16601946,EMS Operating costs,DIT-Maintenance 2019-12,"Krol, Mariola",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,5,0,5,,ID-0013253,3.0
+298,16601962,EMS Operating costs,DIT-Maintenance 2019-12,"Krol, Mariola",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,5,0,5,,ID-0013253,3.0
+299,16601970,EMS Operating costs,DIT-Maintenance 2019-12,"Krol, Mariola",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,3,0,3,,ID-0013253,3.0
+300,16602002,EMS Operating costs,DIT-Maintenance 2019-12,"Krol, Mariola",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,2,0,2,,ID-0013253,3.0
+301,16583205,EMS Operating costs,DIT-Maintenance 2019-12,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013253,4.0
+302,16558078,EMS Operating costs,DIT-Maintenance 2019-12,"Davydov_30.11.19, Denis",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,10,0,10,,ID-0013253,5.0
+303,16584844,ERV MTB/STB 2019,MTB - Prestudy CMS Replacement/Migration,"Siamplis_30.11.19, Ilias",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013499,4.0
+304,16568706,ERV MTB/STB 2019,MTB - Prestudy CMS Replacement/Migration,"Siamplis_30.11.19, Ilias",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,6,0,6,,ID-0013499,5.0
+305,16601045,e-subscription,e-subscription - PO,"Grodzicka, Paulina",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014328,3.0
+306,16601053,e-subscription,e-subscription - PO,"Grodzicka, Paulina",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0014328,3.0
+307,16600992,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014328,3.0
+308,16600993,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014328,3.0
+309,16601020,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0014328,3.0
+310,16601021,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,24,0,24,,ID-0014328,3.0
+311,16601029,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,20,0,20,,ID-0014328,3.0
+312,16601035,e-subscription,e-subscription - PM,"Klesta, Piotr",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014328,3.0
+313,16601786,e-subscription,e-subscription - FE development,"Paprocki, Piotr",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014328,3.0
+314,16601790,e-subscription,e-subscription - FE development,"Paprocki, Piotr",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014328,3.0
+315,16601794,e-subscription,e-subscription - FE development,"Paprocki, Piotr",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014328,3.0
+316,16601795,e-subscription,e-subscription - FE development,"Paprocki, Piotr",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,8,0,8,,ID-0014328,3.0
+317,16601814,e-subscription,e-subscription - FE development,"Paprocki, Piotr",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014328,3.0
+318,16589014,e-subscription,e-subscription - FE development,"Summers, John",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,8,8,,ID-0014328,4.0
+319,16589020,e-subscription,e-subscription - FE development,"Summers, John",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,24,24,,ID-0014328,4.0
+320,16606568,e-subscription,e-subscription - FE development,"Summers, John",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,32,0,32,,ID-0014328,3.0
+321,16525628,GES VVG-Konformität des Versicherungsvorschlags (MVP2),MVP 2 Neo,"Younus_30.11.19, Naveed",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,8,0,8,,ID-0014540,5.0
+322,16556326,Global IT Security – Build Projects 2019,ERGO DIT Schirm,"Kolakowski_30.11.19, Bartlomiej",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013337,5.0
+323,16554359,Health Pass (Needs Analysis),Health Pass AEM,"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,8,0,8,,ID-0013562,5.0
+324,16573889,HK CRM - Betriebskosten-App-Support,Run_Personal Betrieb_App-Support_12/2019 App Support EMI 3.0_Q4,"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014038,4.0
+325,16554188,HK CRM - Betriebskosten-App-Support,Run_Personal Betrieb_App-Support_12/2019 App Support EMI 3.0_Q4,"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,1,0,1,,ID-0014038,5.0
+326,16602266,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_12/2019 DevOps_Q4,"Korepta, Rafal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013376,3.0
+327,16602284,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_12/2019 DevOps_Q4,"Korepta, Rafal",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013376,3.0
+328,16602287,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_12/2019 DevOps_Q4,"Korepta, Rafal",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013376,3.0
+329,16602289,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_12/2019 DevOps_Q4,"Korepta, Rafal",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013376,3.0
+330,16602291,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_12/2019 DevOps_Q4,"Korepta, Rafal",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013376,3.0
+331,16584668,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_11/2019 Development SFPU Refactoring_Q4,"Luks, Krzysztof Andrzej",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013376,4.0
+332,16540825,HK CRM - Betriebskosten-DDH/MSL,Run_Personal Betrieb_DDH_11/2019 Development SFPU Refactoring_Q4,"Luks, Krzysztof Andrzej",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,16,0,16,,ID-0013376,5.0
+333,16601113,HK CRM - Betriebskosten-NBA-NBO,Run_Personal Betrieb_MOMA_12/2019 Maintenance_Q4,"Tkaczyk, Michał",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014007,3.0
+334,16601115,HK CRM - Betriebskosten-NBA-NBO,Run_Personal Betrieb_MOMA_12/2019 Maintenance_Q4,"Tkaczyk, Michał",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014007,3.0
+335,16601117,HK CRM - Betriebskosten-NBA-NBO,Run_Personal Betrieb_MOMA_12/2019 Maintenance_Q4,"Tkaczyk, Michał",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014007,3.0
+336,16601119,HK CRM - Betriebskosten-NBA-NBO,Run_Personal Betrieb_MOMA_12/2019 Maintenance_Q4,"Tkaczyk, Michał",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014007,3.0
+337,16573890,HK CRM - Lead-Management MVP 2,LM_Routing Logik_EMI 3.0_12/2019 Analysis Lead routing_Q4,"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014301,4.0
+338,16554189,HK CRM - Lead-Management MVP 2,LM_Routing Logik_EMI 3.0_12/2019 Analysis Lead routing_Q4,"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,36,0,36,,ID-0014301,5.0
+339,16595097,HK CRM - Lead-Management MVP 2,LM_Routing Logik_EMI 3.0_12/2019 Scrum master_Q4,"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,16,16,,ID-0014301,4.0
+340,16595131,HK CRM - Lead-Management MVP 2,LM_Routing Logik_EMI 3.0_12/2019 Scrum master_Q4,"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014301,3.0
+341,16594020,HK CRM - NBA-NBO MVP 2,NBAO_Optimization_MOMA_12/2019 Development DDH-SAS-EDwin_Q4,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,12,0,12,,ID-0014302,3.0
+342,16573892,HK CRM - NBA-NBO MVP 2,NBAO_Optimization_MOMA_12/2019 Tech Analysis_Q4,"Kur_30.11.19, Karolina",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014302,4.0
+343,16568562,HK CRM - NBA-NBO MVP 2,NBAO_Optimization_MOMA_12/2019 Tech Analysis_Q4,"Kur_30.11.19, Karolina",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014302,5.0
+344,16600083,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013903,3.0
+345,16600086,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,32,0,32,,ID-0013903,3.0
+346,16600089,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0013903,3.0
+347,16600082,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013903,3.0
+348,16600091,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013903,3.0
+349,16600093,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski, Felicitas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013903,3.0
+350,16584719,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski_30.11.19, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013903,4.0
+351,16584721,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski_30.11.19, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013903,4.0
+352,16556302,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski_30.11.19, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,12,0,12,,ID-0013903,5.0
+353,16556306,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski_30.11.19, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,8,0,8,,ID-0013903,5.0
+354,16583198,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Delivery Management_Q4,"Chodkowski_30.11.19, Szymon",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013903,4.0
+355,16569520,HK CRM - Projektmanagement und -support,Mandatory_Overarching_Kernteam_Delivery Management_Q4,"Chodkowski_30.11.19, Szymon",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013903,5.0
+356,16601114,HK CRM - Projektmanagement und -support,Mandatory_Overarching__PMO_Q4,"Michalczuk, Pawel",INTERNAL,Employee,2019-12-09,2019-12-15,Open,0,0,0,,ID-0013903,0.0
+357,16556303,HK CRM - Projektmanagement und –support – Zusatz,Mandatory_Overarching_Kernteam_Op. IT project lead_Q4,"Piegsda-Rohowski_30.11.19, Felicitas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0014461,5.0
+358,16602160,I&OG Cloud Operations,Linux Operations (PDS),"Arkusinski, Mateusz",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+359,16602161,I&OG Cloud Operations,Linux Operations (PDS),"Arkusinski, Mateusz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013537,3.0
+360,16602163,I&OG Cloud Operations,Linux Operations (PDS),"Arkusinski, Mateusz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013537,3.0
+361,16602166,I&OG Cloud Operations,Linux Operations (PDS),"Arkusinski, Mateusz",INTERNAL,Employee,2019-12-16,2019-12-22,Open,40,0,40,,ID-0013537,0.0
+362,16566908,I&OG Cloud Operations,Linux Operations (PDS),"Arkusinski_30.11.19, Mateusz",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+363,16606241,I&OG Cloud Operations,Production Support,"Baran, Tomasz",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013537,3.0
+364,16606244,I&OG Cloud Operations,Production Support,"Baran, Tomasz",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+365,16606263,I&OG Cloud Operations,Production Support,"Baran, Tomasz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+366,16606267,I&OG Cloud Operations,Production Support,"Baran, Tomasz",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+367,16602322,I&OG Cloud Operations,Linux Operations (PDS),"Baranek, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,20,0,20,,ID-0013537,3.0
+368,16602338,I&OG Cloud Operations,Linux Operations (PDS),"Baranek, Maciej",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,20,0,20,,ID-0013537,3.0
+369,16602354,I&OG Cloud Operations,Linux Operations (PDS),"Baranek, Maciej",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,20,0,20,,ID-0013537,3.0
+370,16602321,I&OG Cloud Operations,Production Support,"Baranek, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,20,0,20,,ID-0013537,3.0
+371,16602337,I&OG Cloud Operations,Production Support,"Baranek, Maciej",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,20,0,20,,ID-0013537,3.0
+372,16602353,I&OG Cloud Operations,Production Support,"Baranek, Maciej",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,20,0,20,,ID-0013537,3.0
+373,16583162,I&OG Cloud Operations,Linux Operations (PDS),"Baranek_30.11.19, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+374,16555304,I&OG Cloud Operations,Linux Operations (PDS),"Baranek_30.11.19, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0013537,5.0
+375,16583161,I&OG Cloud Operations,Production Support,"Baranek_30.11.19, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+376,16555303,I&OG Cloud Operations,Production Support,"Baranek_30.11.19, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0013537,5.0
+377,16594941,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0013537,4.0
+378,16594943,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc, Lukasz",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,20,20,,ID-0013537,4.0
+379,16594944,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc, Lukasz",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,20,20,,ID-0013537,4.0
+380,16594952,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc, Lukasz",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+381,16583193,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc_30.11.19, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+382,16544150,I&OG Cloud Operations,Linux Operations (PDS),"Bucholc_30.11.19, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+383,16602375,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013537,3.0
+384,16602334,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+385,16602340,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+386,16602365,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+387,16602368,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013537,3.0
+388,16602371,I&OG Cloud Operations,Production Support,"Dziuba, Damian",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013537,3.0
+389,16600872,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,8,0,8,,ID-0013537,3.0
+390,16600506,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+391,16600484,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+392,16600478,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+393,16600500,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013537,3.0
+394,16600504,I&OG Cloud Operations,Production Support,"Golawski, Marek",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013537,3.0
+395,16583211,I&OG Cloud Operations,Production Support,"Golawski_30.11.19, Marek",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+396,16540668,I&OG Cloud Operations,Production Support,"Golawski_30.11.19, Marek",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+397,16601232,I&OG Cloud Operations,Production Support,"Góral, Paweł",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+398,16601233,I&OG Cloud Operations,Production Support,"Góral, Paweł",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+399,16601236,I&OG Cloud Operations,Production Support,"Góral, Paweł",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+400,16596463,I&OG Cloud Operations,Engineering (BLDD),"Losek, Marcin",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,8,8,,ID-0013537,4.0
+401,16596469,I&OG Cloud Operations,Engineering (BLDD),"Losek, Marcin",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,12,12,,ID-0013537,4.0
+402,16596462,I&OG Cloud Operations,Production Support,"Losek, Marcin",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,32,32,,ID-0013537,4.0
+403,16596468,I&OG Cloud Operations,Production Support,"Losek, Marcin",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,28,28,,ID-0013537,4.0
+404,16584302,I&OG Cloud Operations,Production Support,"Losek_30.11.19, Marcin",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+405,16571853,I&OG Cloud Operations,Production Support,"Losek_30.11.19, Marcin",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+406,16596429,I&OG Cloud Operations,Production Support,"Podgorski, Jakub",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0013537,4.0
+407,16596437,I&OG Cloud Operations,Production Support,"Podgorski, Jakub",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,32,32,,ID-0013537,4.0
+408,16596444,I&OG Cloud Operations,Production Support,"Podgorski, Jakub",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+409,16584751,I&OG Cloud Operations,Production Support,"Podgorski_30.11.19, Jakub",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+410,16544141,I&OG Cloud Operations,Production Support,"Podgorski_30.11.19, Jakub",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+411,16600747,I&OG Cloud Operations,Engineering (BLDD),"Purgal, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+412,16600763,I&OG Cloud Operations,Engineering (BLDD),"Purgal, Lukasz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+413,16600766,I&OG Cloud Operations,Engineering (BLDD),"Purgal, Lukasz",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+414,16584771,I&OG Cloud Operations,Engineering (BLDD),"Purgal_30.11.19, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013537,4.0
+415,16569853,I&OG Cloud Operations,Engineering (BLDD),"Purgal_30.11.19, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0013537,5.0
+416,16569852,I&OG Cloud Operations,Production Support,"Purgal_30.11.19, Lukasz",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0013537,5.0
+417,16603022,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak, Michal",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013537,3.0
+418,16603011,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+419,16603028,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak, Michal",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013537,3.0
+420,16603029,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak, Michal",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013537,3.0
+421,16602999,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak, Michal",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+422,16557361,I&OG Cloud Operations,Linux Operations (PDS),"Smulczak_30.11.19, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+423,16607560,I&OG Cloud Operations,Production Support,"Stolarek, Krzysztof",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+424,16607553,I&OG Cloud Operations,Production Support,"Stolarek, Krzysztof",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+425,16607565,I&OG Cloud Operations,Production Support,"Stolarek, Krzysztof",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+426,16607563,I&OG Cloud Operations,Production Support,"Stolarek, Krzysztof",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0013537,3.0
+427,16607562,I&OG Cloud Operations,Production Support,"Stolarek, Krzysztof",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013537,3.0
+428,16602110,I&OG Cloud Operations,Linux Operations (PDS),"Wojciechowski, Rafal",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+429,16602114,I&OG Cloud Operations,Linux Operations (PDS),"Wojciechowski, Rafal",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013537,3.0
+430,16602116,I&OG Cloud Operations,Linux Operations (PDS),"Wojciechowski, Rafal",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+431,16549430,I&OG Cloud Operations,Linux Operations (PDS),"Wojciechowski_30.11.19, Rafal",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013537,5.0
+432,16605009,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013537,3.0
+433,16605007,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013537,3.0
+434,16605013,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,32,0,32,,ID-0013537,3.0
+435,16605016,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013537,3.0
+436,16605027,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0013537,3.0
+437,16605043,I&OG Cloud Operations,Production Support,"Zagozdzon, Magdalena",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,8,0,8,,ID-0013537,3.0
+438,16558865,iLiFE STG Dive - MVP1,TOF2,"Ciesielski_30.11.19, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,27,0,27,,ID-0013963,5.0
+439,16565160,iLiFE STG Dive - MVP1,TOF2,"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-09,2019-12-15,Open,0,0,0,,ID-0013963,0.0
+440,16565182,iLiFE STG Dive - MVP1,TOF2,"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-16,2019-12-22,Open,0,0,0,,ID-0013963,0.0
+441,16600898,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Gulak, Maciej",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014163,3.0
+442,16600867,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Gulak, Maciej",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+443,16600871,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Gulak, Maciej",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014163,3.0
+444,16600876,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Gulak, Maciej",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+445,16600117,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Kielek, Michal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+446,16600127,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Kielek, Michal",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014163,3.0
+447,16600130,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Kielek, Michal",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+448,16601413,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Kielek, Michal",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014163,3.0
+449,16601416,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Kielek, Michal",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014163,3.0
+450,16556854,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_10.2_Sprint 10_Implementation of the broker portal,"Kielek_30.11.19, Michal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014163,5.0
+451,16600578,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Arendt, Barbara",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+452,16600618,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Arendt, Barbara",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014163,3.0
+453,16600621,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Arendt, Barbara",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014163,3.0
+454,16606407,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Bogdan, Michal",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014163,3.0
+455,16606415,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Bogdan, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+456,16606388,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Bogdan, Michal",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0014163,3.0
+457,16606381,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Bogdan, Michal",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+458,16606417,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Bogdan, Michal",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,20,0,20,,ID-0014163,3.0
+459,16545248,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_10.2_Sprint 10_Implementation of the broker portal,"Bogdan_30.11.19, Michal",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014163,5.0
+460,16520734,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_10.2_Sprint 10_Implementation of the broker portal,"Czainski_30.11.19, Piotr",INTERNAL,Employee,2019-12-02,2019-12-08,Open,20,0,20,,ID-0014163,0.0
+461,16601208,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Karpinski, Filip",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+462,16601218,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Karpinski, Filip",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014163,3.0
+463,16601235,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Karpinski, Filip",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+464,16558551,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Karpinski_30.11.19, Filip",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014163,5.0
+465,16602130,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Pastuszka, Maciej",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+466,16602133,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Pastuszka, Maciej",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014163,3.0
+467,16602143,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Pastuszka, Maciej",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+468,16544234,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_10.2_Sprint 10_Implementation of the broker portal,"Perz_30.11.19, Szymon",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,24,0,24,,ID-0014163,5.0
+469,16601518,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014163,0.0
+470,16601522,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,28,0,28,,ID-0014163,3.0
+471,16601526,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,28,0,28,,ID-0014163,3.0
+472,16601540,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,22,0,22,,ID-0014163,3.0
+473,16601554,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,12,0,12,,ID-0014163,3.0
+474,16599978,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szymański, Tomasz",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014163,3.0
+475,16599980,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szymański, Tomasz",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,32,0,32,,ID-0014163,3.0
+476,16599988,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_12.2_Sprint 12_Implementation of the broker portal,"Szymański, Tomasz",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014163,3.0
+477,16552990,iMaki Broker Portal - Weiterentwicklung Angebotsrechner (HP3_MVP2_2019),HP3_MVP2_11.2_Sprint 11_Implementation of the broker portal,"Szymański_30.11.19, Tomasz",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014163,5.0
+478,16599922,Information (DITS),Information (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004838,3.0
+479,16599940,Information (DITS),Information (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004838,3.0
+480,16599966,Information (DITS),Information (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004838,3.0
+481,16601570,Information (DITSD),Information (DITSD),"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,AA00004844,3.0
+482,16605629,Information (DITSP),Information (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004856,3.0
+483,16605645,Information (DITSP),Information (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004856,3.0
+484,16605710,Information (DITSP),Information (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004856,3.0
+485,16601452,Information (DITTC),Information (DITTC),"Dziuba, Damian",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004766,3.0
+486,16606571,Information (DITTS),Information (DITTS),"Summers, John",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004814,3.0
+487,16604887,ISP 14 00 German Affiliates,DIG VAIT,"Bornhold, Johannes",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014678,3.0
+488,16604889,ISP 14 00 German Affiliates,DIG VAIT,"Bornhold, Johannes",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014678,3.0
+489,16604891,ISP 14 00 German Affiliates,DIG VAIT,"Bornhold, Johannes",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014678,3.0
+490,16606393,ISP 14 00 German Affiliates,DIG VAIT,"Deren, Pawel",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014678,0.0
+491,16606389,ISP 14 00 German Affiliates,DIG VAIT,"Deren, Pawel",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014678,3.0
+492,16606406,ISP 14 00 German Affiliates,DIG VAIT,"Deren, Pawel",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014678,3.0
+493,16606413,ISP 14 00 German Affiliates,DIG VAIT,"Deren, Pawel",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014678,3.0
+494,16595102,ISP 14 00 German Affiliates,DIG VAIT,"Dron, Grzegorz",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0014678,4.0
+495,16595099,ISP 14 00 German Affiliates,DIG VAIT,"Dron, Grzegorz",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014678,4.0
+496,16595093,ISP 14 00 German Affiliates,DIG VAIT,"Dron, Grzegorz",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014678,3.0
+497,16606945,ISP 14 00 German Affiliates,DIG VAIT,"Zubelewicz, Adam",INTERNAL,Employee,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014678,0.0
+498,16594670,ISP 14 00 German Affiliates,DIG VAIT,"Zubelewicz, Adam",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0014678,4.0
+499,16594672,ISP 14 00 German Affiliates,DIG VAIT,"Zubelewicz, Adam",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014678,4.0
+500,16594660,ISP 14 00 German Affiliates,DIG VAIT,"Zubelewicz, Adam",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014678,3.0
+501,16603988,Janus,Transition das.de,"Charubin, Lukasz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,8,0,8,,ID-0007444,0.0
+502,16603985,Janus,Transition Vertriebsportal,"Charubin, Lukasz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,32,0,32,,ID-0007444,3.0
+503,16603987,Janus,Transition Vertriebsportal,"Charubin, Lukasz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0007444,3.0
+504,16604006,Janus,Transition Vertriebsportal,"Charubin, Lukasz",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,16,0,16,,ID-0007444,0.0
+505,16603989,Janus,Transition Xtra Partner,"Charubin, Lukasz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,32,0,32,,ID-0007444,0.0
+506,16596431,Janus,Onboarding Ergo.de FrontEnd,"Kotwicki, Michal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0007444,4.0
+507,16598518,Janus,Onboarding Ergo.de FrontEnd,"Kotwicki, Michal",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,0,0,0,,ID-0007444,0.0
+508,16584266,Janus,Onboarding Ergo.de FrontEnd,"Kotwicki_30.11.19, Michal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0007444,4.0
+509,16565083,Janus,Onboarding Ergo.de FrontEnd,"Kotwicki_30.11.19, Michal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0007444,5.0
+510,16599440,Janus,onboarding myergo Back-End,"Kowalski, Sebastian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,40,0,40,,ID-0007444,0.0
+511,16599457,Janus,onboarding myergo Back-End,"Kowalski, Sebastian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,40,0,40,,ID-0007444,0.0
+512,16599459,Janus,onboarding myergo Back-End,"Kowalski, Sebastian",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,16,0,16,,ID-0007444,0.0
+513,16596439,Janus,Onboarding Ergo.de FrontEnd,"Radziszewski, Rafal",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0007444,4.0
+514,16596442,Janus,Onboarding Ergo.de FrontEnd,"Radziszewski, Rafal",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0007444,4.0
+515,16596446,Janus,Onboarding Ergo.de FrontEnd,"Radziszewski, Rafal",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0007444,3.0
+516,16606593,Janus,Onboarding Ergo.de FrontEnd,"Godlewski, Artur",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0007444,3.0
+517,16606595,Janus,Onboarding Ergo.de FrontEnd,"Godlewski, Artur",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0007444,3.0
+518,16606604,Janus,Onboarding Ergo.de FrontEnd,"Godlewski, Artur",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0007444,3.0
+519,16606606,Janus,Onboarding Ergo.de FrontEnd,"Godlewski, Artur",INTERNAL,Employee,2019-12-23,2019-12-29,Open,20,0,20,,ID-0007444,0.0
+520,16583210,Janus,Onboarding Ergo.de FrontEnd,"Godlewski_30.11.19, Artur",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0007444,4.0
+521,16547978,Janus,Onboarding Ergo.de FrontEnd,"Godlewski_30.11.19, Artur",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0007444,5.0
+522,16562807,KomPK BIC PHV2020plus,Initiale Business Clarification Phase,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014470,0.0
+523,16562809,KomPK BIC PHV2020plus,Initiale Business Clarification Phase,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,1,0,1,,ID-0014470,0.0
+524,16562812,KomPK BIC PHV2020plus,Initiale Business Clarification Phase,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,0,0,0,,ID-0014470,0.0
+525,16606258,KomPK BIC PHV2020plus,Initiale Business Clarification Phase,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,0,0,0,,ID-0014470,0.0
+526,16600469,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014471,3.0
+527,16600475,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014471,3.0
+528,16600481,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0014471,3.0
+529,16600498,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014471,3.0
+530,16592552,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Rozycki, Konrad",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0014471,4.0
+531,16592537,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Rozycki, Konrad",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0014471,4.0
+532,16592563,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Rozycki, Konrad",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014471,3.0
+533,16592566,MVP1 - AI Health Claims Outpatient Medical Bill,Development Microservice,"Rozycki, Konrad",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,16,0,16,,ID-0014471,0.0
+534,16600468,MVP1 AI-IM-CLA Use Case (Umsetzungsprojekt),Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014374,3.0
+535,16600474,MVP1 AI-IM-CLA Use Case (Umsetzungsprojekt),Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0014374,3.0
+536,16600480,MVP1 AI-IM-CLA Use Case (Umsetzungsprojekt),Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0014374,3.0
+537,16600497,MVP1 AI-IM-CLA Use Case (Umsetzungsprojekt),Development Microservice,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014374,3.0
+538,16559298,MVP1 AI-IM-CLA Use Case (Umsetzungsprojekt),Development Microservice,"Rozycki_30.11.19, Konrad",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,24,0,24,,ID-0014374,5.0
+539,16507146,Neo – 2019 SZS/SZL (MVP2),SZS/SZL MVP2 - Further Features & CRs,"Rukat_30.11.19, Marek",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014174,0.0
+540,16507148,Neo – 2019 SZS/SZL (MVP2),SZS/SZL MVP2 - Further Features & CRs,"Rukat_30.11.19, Marek",INTERNAL,Employee,2019-12-02,2019-12-08,Open,20,0,20,,ID-0014174,0.0
+541,16507147,Neo - ED Zahn (MVP 3),ED Zahn MVP 3 - Further Features & CRs,"Rukat_30.11.19, Marek",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014173,0.0
+542,16507149,Neo - ED Zahn (MVP 3),ED Zahn MVP 3 - Further Features & CRs,"Rukat_30.11.19, Marek",INTERNAL,Employee,2019-12-02,2019-12-08,Open,20,0,20,,ID-0014173,0.0
+543,16591488,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Ciesielski, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,21,21,,ID-0014639,4.0
+544,16583201,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Ciesielski_30.11.19, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014639,4.0
+545,16558866,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Ciesielski_30.11.19, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,5,0,5,,ID-0014639,5.0
+546,16595823,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014639,0.0
+547,16595841,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Oleksiuk, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014639,0.0
+548,16565158,Neo – KFO (MVP1),Neo - KFP Prod. Development,"Adamiec_30.11.19, Klaudia",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,20,0,20,,ID-0014639,5.0
+549,16525309,Neo – MTB DIT H2 2019 - Betriebskosten,2nd line support,"Orlowski_30.11.19, Kamil",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0014201,5.0
+550,16587675,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus, Naveed",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,40,40,,ID-0014485,4.0
+551,16587676,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus, Naveed",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,48,48,,ID-0014485,4.0
+552,16587683,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus, Naveed",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014485,3.0
+553,16587682,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus, Naveed",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014485,3.0
+554,16587691,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus, Naveed",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014485,3.0
+555,16584880,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus_30.11.19, Naveed",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014485,4.0
+556,16525629,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Younus_30.11.19, Naveed",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,32,0,32,,ID-0014485,5.0
+557,16599918,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014485,3.0
+558,16599936,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0014485,3.0
+559,16599962,Neo - Vorbereitung Risikolebensversicherung @NEO,Product Development (RLV MVP I),"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,4,0,4,,ID-0014485,3.0
+560,16600470,Operationalisation Platform MVP1,Development,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014504,3.0
+561,16600476,Operationalisation Platform MVP1,Development,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0014504,3.0
+562,16600482,Operationalisation Platform MVP1,Development,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014504,3.0
+563,16600499,Operationalisation Platform MVP1,Development,"Poplawski, Mateusz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014504,3.0
+564,16592567,Operationalisation Platform MVP1,2020,"Rozycki, Konrad",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0014504,0.0
+565,16559300,Operationalisation Platform MVP1,Development,"Rozycki_30.11.19, Konrad",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,16,0,16,,ID-0014504,5.0
+566,16605728,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014504,3.0
+567,16605632,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014504,3.0
+568,16605661,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014504,3.0
+569,16605681,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014504,3.0
+570,16605750,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014504,3.0
+571,16605752,Operationalisation Platform MVP1,2020,"Meisner, Robert",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014504,3.0
+572,16601520,Operationalisation Platform MVP1,Development,"Richter, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,32,0,32,,ID-0014504,3.0
+573,16601535,Operationalisation Platform MVP1,Development,"Richter, Sandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,24,0,24,,ID-0014504,3.0
+574,16584780,Operationalisation Platform MVP1,Development,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014504,4.0
+575,16441681,Operationalisation Platform MVP1,Development,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,32,0,32,,ID-0014504,5.0
+576,16441696,Operationalisation Platform MVP1,Development,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014504,3.0
+577,16441699,Operationalisation Platform MVP1,Development,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014504,3.0
+578,16601527,Operationalisation Platform MVP1,Development,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,6,0,6,,ID-0014504,3.0
+579,16601541,Operationalisation Platform MVP1,Development,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,2,0,2,,ID-0014504,3.0
+580,16557969,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Herberg_30.11.19, Malte",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013954,5.0
+581,16600501,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Janiuk, Robert",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0013954,0.0
+582,16600743,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Janiuk, Robert",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,0,0,0,,ID-0013954,0.0
+583,16600727,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Janiuk, Robert",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0013954,0.0
+584,16600729,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Janiuk, Robert",EXTERNAL,Contractor,2019-12-30,2019-12-31,Open,0,0,0,,ID-0013954,0.0
+585,16602199,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013954,3.0
+586,16603247,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,24,0,24,,ID-0013954,3.0
+587,16603249,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,16,0,16,,ID-0013954,3.0
+588,16603255,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013954,3.0
+589,16603256,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013954,3.0
+590,16603257,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013954,3.0
+591,16603259,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kobylarz, Dominik",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013954,3.0
+592,16600603,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0013954,3.0
+593,16593980,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,8,8,,ID-0013954,4.0
+594,16594021,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,20,0,20,,ID-0013954,3.0
+595,16600604,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,24,0,24,,ID-0013954,3.0
+596,16600605,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0013954,3.0
+597,16593981,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,24,24,,ID-0013954,4.0
+598,16593989,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,8,8,,ID-0013954,4.0
+599,16594022,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk, Adrian",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013954,3.0
+600,16584272,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+601,16567131,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,4,0,4,,ID-0013954,5.0
+602,16584273,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+603,16584274,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+604,16567132,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,24,0,24,,ID-0013954,5.0
+605,16567133,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Kupczyk_30.11.19, Adrian",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,12,0,12,,ID-0013954,5.0
+606,16574392,R&D Ditgital IT,Int PRJ Fund: OTR Maintenance,"Pajdzinski_30.11.19, Andrzej",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,40,0,40,,ID-0013954,0.0
+607,16595117,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0013954,4.0
+608,16595129,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013954,3.0
+609,16595130,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013954,3.0
+610,16584834,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Schmidt_30.11.19, Alexander",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+611,16531844,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Schmidt_30.11.19, Alexander",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013954,5.0
+612,16605474,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0013954,3.0
+613,16605443,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013954,3.0
+614,16605445,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013954,3.0
+615,16605483,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013954,3.0
+616,16605492,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0013954,3.0
+617,16605530,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Skrobas, Grzegorz",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013954,3.0
+618,16595116,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,24,24,,ID-0013954,4.0
+619,16595124,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,16,16,,ID-0013954,4.0
+620,16595202,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek, Krzysztof",EXTERNAL,Contractor,2019-12-09,2019-12-15,Posted,0,40,40,,ID-0013954,4.0
+621,16584851,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek_30.11.19, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+622,16584852,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek_30.11.19, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+623,16566924,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek_30.11.19, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,24,0,24,,ID-0013954,5.0
+624,16566925,R&D Ditgital IT,int. PRJ Fund: Customer Portal - Handover of ED portal Services,"Szostek_30.11.19, Krzysztof",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,16,0,16,,ID-0013954,5.0
+625,16592699,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Bernt, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,24,24,,ID-0013954,4.0
+626,16592723,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Bernt, Anja Diana",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,16,16,,ID-0013954,4.0
+627,16583165,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Bernt_30.11.19, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013954,4.0
+628,16569658,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Bernt_30.11.19, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,28,0,28,,ID-0013954,5.0
+629,16601583,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Blus, Malgorzata",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,32,0,32,,ID-0013954,3.0
+630,16601596,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Blus, Malgorzata",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0013954,3.0
+631,16601603,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Blus, Malgorzata",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,32,0,32,,ID-0013954,3.0
+632,16601887,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Blus, Malgorzata",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013954,3.0
+633,16601959,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Celinski, Benedykt",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,32,0,32,,ID-0013954,3.0
+634,16601966,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Celinski, Benedykt",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013954,3.0
+635,16601971,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Celinski, Benedykt",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013954,3.0
+636,16606209,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0013954,0.0
+637,16606198,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013954,3.0
+638,16606212,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0013954,3.0
+639,16606217,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0013954,3.0
+640,16606240,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0013954,3.0
+641,16606245,R&D Ditgital IT,Int PRJ Fund: DDH Refactoring (Internal),"Kardash, Bohdan",INTERNAL,Employee,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0013954,3.0
+642,16599916,R&D Ditgital IT,EDS ERGO Design System Ignition Phase,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013954,3.0
+643,16599934,R&D Ditgital IT,EDS ERGO Design System Ignition Phase,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013954,3.0
+644,16599960,R&D Ditgital IT,EDS ERGO Design System Ignition Phase,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,12,0,12,,ID-0013954,3.0
+645,16599915,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013954,3.0
+646,16599933,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0013954,3.0
+647,16599959,R&D Ditgital IT,Int PRJ Fund: DIT Communication,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013954,3.0
+648,16599913,R&D Ditgital IT,Int PRJ Fund: UserZoom akquisition,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013954,3.0
+649,16599931,R&D Ditgital IT,Int PRJ Fund: UserZoom akquisition,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,3,0,3,,ID-0013954,3.0
+650,16599957,R&D Ditgital IT,Int PRJ Fund: UserZoom akquisition,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,4,0,4,,ID-0013954,3.0
+651,16599914,R&D Ditgital IT,Strategic Design in ERGO,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,16,0,16,,ID-0013954,3.0
+652,16599932,R&D Ditgital IT,Strategic Design in ERGO,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,ID-0013954,3.0
+653,16599958,R&D Ditgital IT,Strategic Design in ERGO,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,12,0,12,,ID-0013954,3.0
+654,16554384,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013954,3.0
+655,16554383,R&D Ditgital IT,Int PRJ Fund: DOSPA re-platforming,"Montoya Cardona_30.11.19, Juan Carlo",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013954,3.0
+656,16606243,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Zajdzik, Aleksandra",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,20,0,20,,ID-0013954,3.0
+657,16606262,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Zajdzik, Aleksandra",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,16,0,16,,ID-0013954,3.0
+658,16606265,R&D Ditgital IT,Int Prj Fund: AEM overhead (Juan Team),"Zajdzik, Aleksandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,20,0,20,,ID-0013954,3.0
+659,16591489,SPE - Umsetzung MVP01: Leben,Anpassung TarifOberfläche (TOF),"Ciesielski, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,19,19,,ID-0014523,4.0
+660,16601156,SPE - Umsetzung MVP01: Leben,Entwicklung Maßnahmenverwaltung/Jira,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014523,3.0
+661,16601169,SPE - Umsetzung MVP01: Leben,Entwicklung Maßnahmenverwaltung/Jira,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,0,0,0,,ID-0014523,0.0
+662,16601206,SPE - Umsetzung MVP01: Leben,Entwicklung Maßnahmenverwaltung/Jira,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,7,0,7,,ID-0014523,0.0
+663,16601210,SPE - Umsetzung MVP01: Leben,Entwicklung Maßnahmenverwaltung/Jira,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,17,0,17,,ID-0014523,0.0
+664,16604648,SPE - Umsetzung MVP01: Leben,Entwicklung Maßnahmenverwaltung/Jira,"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0014523,0.0
+665,16592727,Training/Continuing Education (DITS),Training/Continuing Education (DITS),"Bernt, Anja Diana",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,8,8,,AA00004840,4.0
+666,16601017,Training/Continuing Education (DITS),Training/Continuing Education (DITS),"Klesta, Piotr",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,AA00004840,3.0
+667,16599923,Training/Continuing Education (DITS),Training/Continuing Education (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004840,3.0
+668,16599941,Training/Continuing Education (DITS),Training/Continuing Education (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,8,0,8,,AA00004840,3.0
+669,16599967,Training/Continuing Education (DITS),Training/Continuing Education (DITS),"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004840,3.0
+670,16605630,Training/Continuing Education (DITSP),Training/Continuing Education (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,AA00004858,3.0
+671,16605646,Training/Continuing Education (DITSP),Training/Continuing Education (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004858,3.0
+672,16605711,Training/Continuing Education (DITSP),Training/Continuing Education (DITSP),"Meisner, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004858,3.0
+673,16601453,Training/Continuing Education (DITTC),Training/Continuing Education (DITTC),"Dziuba, Damian",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,AA00004768,3.0
+674,16600965,Training/Continuing Education (DITTS),Training/Continuing Education (DITTS),"Janowski, Konrad",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,AA00004816,3.0
+675,16606572,Training/Continuing Education (DITTS),Training/Continuing Education (DITTS),"Summers, John",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,AA00004816,3.0
+676,16599917,VaVT Gewerbe  - Geldprozesse,Product vision for customer journey ABKON Automatenversicherung,"Lange, Andreas",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,0,0,0,,ID-0013997,3.0
+677,16599935,VaVT Gewerbe  - Geldprozesse,Product vision for customer journey ABKON Automatenversicherung,"Lange, Andreas",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0013997,3.0
+678,16599961,VaVT Gewerbe  - Geldprozesse,Product vision for customer journey ABKON Automatenversicherung,"Lange, Andreas",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0013997,3.0
+679,16558897,VE Beratung Gewerbe / Industrie MVP 5,IT-Enwciklung Digital IT,"Geiersbach_30.11.19, Norman",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014404,0.0
+680,16601531,VE Beratung Gewerbe / Industrie MVP 5,IT-Enwciklung Digital IT,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014404,3.0
+681,16601675,VE Beratung Gewerbe / Industrie MVP 5,IT-Enwciklung Digital IT,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,32,0,32,,ID-0014404,3.0
+682,16601687,VE Beratung Gewerbe / Industrie MVP 5,IT-Enwciklung Digital IT,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,4,0,4,,ID-0014404,3.0
+683,16607749,Voice - Betriebskosten 2019,Application support,"Nowicki, Piotr",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014497,0.0
+684,16607750,Voice - Betriebskosten 2019,Application support,"Nowicki, Piotr",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,40,0,40,,ID-0014497,0.0
+685,16607745,Voice - Betriebskosten 2019,Application support,"Nowicki, Piotr",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,40,0,40,,ID-0014497,0.0
+686,16562808,Voice - MVP2,Architecture support,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-01,2019-12-01,Open,0,0,0,,ID-0014198,0.0
+687,16562810,Voice - MVP2,Architecture support,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,39,0,39,,ID-0014198,0.0
+688,16562813,Voice - MVP2,Architecture support,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,36,0,36,,ID-0014198,0.0
+689,16606259,Voice - MVP2,Architecture support,"Haefke, Jacqueline",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,40,0,40,,ID-0014198,0.0
+690,16600559,Voice - MVP2,coding voice skills,"Otrebska, Kaja",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014198,3.0
+691,16600503,Voice - MVP2,coding voice skills,"Otrebska, Kaja",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014198,3.0
+692,16600508,Voice - MVP2,coding voice skills,"Otrebska, Kaja",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014198,3.0
+693,16600509,Voice - MVP2,coding voice skills,"Otrebska, Kaja",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014198,3.0
+694,16600511,Voice - MVP2,coding voice skills,"Otrebska, Kaja",INTERNAL,Employee,2019-12-23,2019-12-29,Approved,16,0,16,,ID-0014198,3.0
+695,16601521,Voice - MVP2,Program Mangement,"Richter, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,8,0,8,,ID-0014198,3.0
+696,16601536,Voice - MVP2,Program Mangement,"Richter, Sandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,ID-0014198,3.0
+697,16584781,Voice - MVP2,Program Mangement,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014198,4.0
+698,16441682,Voice - MVP2,Program Mangement,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,8,0,8,,ID-0014198,5.0
+699,16441697,Voice - MVP2,Program Mangement,"Richter_30.11.19, Sandra",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014198,3.0
+700,16601026,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014519,3.0
+701,16600893,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0014519,3.0
+702,16600895,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,40,0,40,,ID-0014519,3.0
+703,16600897,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,40,0,40,,ID-0014519,3.0
+704,16600899,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-23,2019-12-29,Approved,24,0,24,,ID-0014519,3.0
+705,16601030,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Indyk, Tomasz",EXTERNAL,Contractor,2019-12-30,2019-12-31,Approved,16,0,16,,ID-0014519,3.0
+706,16573891,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014519,4.0
+707,16554190,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Krawczyk_30.11.19, Izabela",EXTERNAL,Contractor,2019-12-02,2019-12-08,Adjusted,3,0,3,,ID-0014519,5.0
+708,16601155,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014519,3.0
+709,16601168,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-02,2019-12-08,Open,16,0,16,,ID-0014519,0.0
+710,16601191,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-09,2019-12-15,Open,5,0,5,,ID-0014519,0.0
+711,16601211,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-16,2019-12-22,Open,16,0,16,,ID-0014519,0.0
+712,16604647,WAS - Agentur2Go – Leadmanagement,Lead mgmt in A2Go (Salesforce team),"Pilarski, Kamil",EXTERNAL,Contractor,2019-12-23,2019-12-29,Open,0,0,0,,ID-0014519,0.0
+713,16595098,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-02,2019-12-08,Posted,0,24,24,,ID-0014519,4.0
+714,16595132,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Podgorzak, Marcin",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014519,3.0
+715,16600706,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-01,2019-12-01,Approved,0,0,0,,ID-0014519,3.0
+716,16600686,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-02,2019-12-08,Open,40,0,40,,ID-0014519,0.0
+717,16600688,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-09,2019-12-15,Open,40,0,40,,ID-0014519,0.0
+718,16600691,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-16,2019-12-22,Open,40,0,40,,ID-0014519,0.0
+719,16600714,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Augustyniak, Kamil",INTERNAL,Employee,2019-12-30,2019-12-31,Open,16,0,16,,ID-0014519,0.0
+720,16592700,WAS - Agentur2Go – Leadmanagement,PM Tasks,"Bernt, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,16,16,,ID-0014519,4.0
+721,16592724,WAS - Agentur2Go – Leadmanagement,PM Tasks,"Bernt, Anja Diana",INTERNAL,Employee,2019-12-09,2019-12-15,Posted,0,8,8,,ID-0014519,4.0
+722,16583166,WAS - Agentur2Go – Leadmanagement,PM Tasks,"Bernt_30.11.19, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014519,4.0
+723,16569659,WAS - Agentur2Go – Leadmanagement,PM Tasks,"Bernt_30.11.19, Anja Diana",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,12,0,12,,ID-0014519,5.0
+724,16584669,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Luks, Krzysztof Andrzej",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0014519,4.0
+725,16540826,WAS - Agentur2Go – Leadmanagement,DDH Components (DDH team),"Luks, Krzysztof Andrzej",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,24,0,24,,ID-0014519,5.0
+726,16601530,WAS MVP 3 - 2019,FK Dienst- und Geschäftsreise,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-02,2019-12-08,Approved,24,0,24,,ID-0014274,3.0
+727,16601705,WAS MVP 3 - 2019,FK Dienst- und Geschäftsreise,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-09,2019-12-15,Approved,0,0,0,,ID-0014274,3.0
+728,16601686,WAS MVP 3 - 2019,FK Dienst- und Geschäftsreise,"Vengels, Thomas",EXTERNAL,Contractor,2019-12-16,2019-12-22,Approved,0,0,0,,ID-0014274,3.0
+729,16600246,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Baryla, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,40,0,40,,ID-0013076,3.0
+730,16600268,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Baryla, Robert",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,24,0,24,,ID-0013076,3.0
+731,16600271,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Baryla, Robert",INTERNAL,Employee,2019-12-16,2019-12-22,Open,40,0,40,,ID-0013076,0.0
+732,16583163,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Baryla_30.11.19, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Posted,0,0,0,,ID-0013076,4.0
+733,16569898,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Baryla_30.11.19, Robert",INTERNAL,Employee,2019-12-02,2019-12-08,Adjusted,40,0,40,,ID-0013076,5.0
+734,16601519,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-01,2019-12-01,Open,0,0,0,,ID-0013076,0.0
+735,16601523,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-02,2019-12-08,Approved,12,0,12,,ID-0013076,3.0
+736,16601528,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-09,2019-12-15,Approved,6,0,6,,ID-0013076,3.0
+737,16601542,ZAV 06 C2 Vermittlerverträge (MVP 2),Scrum Team Pikatchu Panda,"Szczepankiewicz, Katarzyna",INTERNAL,Employee,2019-12-16,2019-12-22,Approved,8,0,8,,ID-0013076,3.0
+738,Total,,,,,,,,,11892,1408,13300,,,
